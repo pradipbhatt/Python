@@ -33,3 +33,9 @@ print(a.replace("radiant","radiant girl")) #This function replaces the first arg
 #Now let's study the SPlit FUnction using the split() method
 
 x="Hey dear, why u are so much cute"
+
+print(x.split())
+#split() le strings lae substrings ma separeate garne kaam vayo 
+
+
+
